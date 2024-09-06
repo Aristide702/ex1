@@ -10,7 +10,7 @@
         <?php require "gabarit/inc_nav.php"; ?>
     </nav>
     <main>
-        <h1>Liste cLIENT</h1>
+        <h1>Liste client</h1>
         <?php
 
         $sql = "select * from client, profil";
