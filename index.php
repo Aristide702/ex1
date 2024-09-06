@@ -11,7 +11,7 @@
     </nav>
     <main>
         <?php debug($_SESSION, "session"); ?>
-        <h1>PAGE D'ACCUEIL</h1>
+        <h1>PAGE De bienvenue</h1>
         <h3>Bienvenu sur le site de notre agence !</h3>
         <p>Notre agence existe depuis 2013 et elle a été fondée par Aristide et Julien, deux amis de longue date qui se sont rencontrés au collège.</p>
 
